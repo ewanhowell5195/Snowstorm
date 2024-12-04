@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/stem_fruit","textures":{"stem":"minecraft:block/pumpkin_stem","upperstem":"minecraft:block/attached_pumpkin_stem","upperstem2":"minecraft:block/attached_pumpkin_stem2"}}
+{"parent":"block/stem_fruit","textures":{"stem":"block/pumpkin_stem","upperstem":"block/attached_pumpkin_stem","upperstem2":"block/attached_pumpkin_stem2"}}

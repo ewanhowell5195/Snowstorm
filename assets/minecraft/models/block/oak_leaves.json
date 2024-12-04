@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/leaves","textures":{"all":"minecraft:block/oak_leaves_snow","bottom":"minecraft:block/oak_leaves","snow":"minecraft:block/snow"}}
+{"parent":"block/leaves","textures":{"all":"block/oak_leaves_snow","bottom":"block/oak_leaves","snow":"block/snow"}}

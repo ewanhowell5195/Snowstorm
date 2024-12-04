@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/fern"}}
+{"parent":"item/generated","textures":{"layer0":"item/fern"}}

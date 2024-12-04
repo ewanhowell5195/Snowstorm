@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_chorus_flower","textures":{"side":"minecraft:block/chorus_flower_dead"}}
+{"parent":"block/template_chorus_flower","textures":{"side":"block/chorus_flower_dead"}}

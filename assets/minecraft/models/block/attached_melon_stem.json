@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/stem_fruit","textures":{"stem":"minecraft:block/melon_stem","upperstem":"minecraft:block/attached_melon_stem","upperstem2":"minecraft:block/attached_melon_stem2"}}
+{"parent":"block/stem_fruit","textures":{"stem":"block/melon_stem","upperstem":"block/attached_melon_stem","upperstem2":"block/attached_melon_stem2"}}
